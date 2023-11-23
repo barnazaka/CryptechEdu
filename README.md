@@ -1,10 +1,10 @@
-<img src="https://learnlit.tech/assets/learnlit.svg" style="height: 50px; width: 150px; object-fit: contain;" />
+
 
 <br />
 
-**learnlit** - an online learning and teaching marketplace.
+**CryptechEdu** - an online learning and teaching marketplace.
 
-## Frontend project for learnlit
+## Frontend project for CryptechEdu
 
 This project is built using Next.js as the core library and various other libraries including redux-toolkit, material-ui, tailwindcss, etc.
 Includes features for course creation and management, and course preview, enrollment, and learning.
