@@ -2,9 +2,9 @@
 
 <br />
 
-**CryptechEdu** - an online learning and teaching marketplace.
+**TransformX Labs** - an online learning and teaching marketplace.
 
-## Frontend project for CryptechEdu
+## Frontend project for TransformX Labs
 
 This project is built using Next.js as the core library and various other libraries including redux-toolkit, material-ui, tailwindcss, etc.
 Includes features for course creation and management, and course preview, enrollment, and learning.
